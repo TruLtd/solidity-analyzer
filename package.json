@@ -1,6 +1,6 @@
 {
   "name": "solidity-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Experimenting different techniques for finding bugs in solidity codes",
   "main": "index.js",
   "scripts": {
